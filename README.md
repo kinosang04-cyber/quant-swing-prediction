@@ -1,9 +1,8 @@
-# 📈 Quant Swing Prediction
+# Quant Swing Prediction
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkinosang04-cyber%2Fquant-swing-prediction&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views)
-# Quant Swing Prediction
+
 An LSTM-based trend prediction system for swing trading with feature engineering.
 ## 專案目標:
 本專案是開發應用於 **短期波段交易(Short-term Swing Trading)** 的預測系統，核心目標是利用深度學習技術，從複雜與充滿雜訊的市場波動中篩選出 **極高勝率** 的短線進場點，解決一般投資者在短線操作時容易而誤判的問題。
