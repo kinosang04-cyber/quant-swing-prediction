@@ -1,4 +1,6 @@
 # Quant Swing Prediction
+>**Current Version:** `1.1-public` (See the [v1.1-public branch](https://github.com/kinosang04-cyber/quant-swing-prediction/tree/v1.1-public) for the latest framework and features).
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
